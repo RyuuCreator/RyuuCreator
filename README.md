@@ -1,3 +1,7 @@
+<p  align="center">
+  <img src="https://raw.githubusercontent.com/RyuuCreator/RyuuCreator/main/img/banner.jpg" width="100%" />
+</p>
+
 <p>
   <h1 align="center"><b>Bonjour, je suis Mickael</h1>
 </p>
