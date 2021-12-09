@@ -26,6 +26,9 @@
   <img src="https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Code-Php-777BB4?style=flat&logo=php&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Code-Sql-4479A1?style=flat&logo=mysql&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Code-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/JRE-Node.js-339933?style=flat&logo=Node.js&logoColor=white" />&nbsp;
+  <br />
   <img src="https://img.shields.io/badge/Framework-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Framework-Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />&nbsp;
   <br />
