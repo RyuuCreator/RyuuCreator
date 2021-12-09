@@ -21,16 +21,16 @@
 <h2 align="center"><b>Languages et Outils</h2>
 <br />
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-HTML-D74824?style=flat&logo=html5&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Code-CSS-016AB1?style=flat&logo=css3&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Code-JavaScript-EAD41C?style=flat&logo=javascript&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Code-Php-828CB4?style=flat&logo=php&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Code-Sql-E68910?style=flat&logo=mysql&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Framework-Bootstrap-523977?style=flat&logo=bootstrap&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Framework-Tailwind_CSS-F2A900?style=flat&logo=tailwindcss&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Code-HTML-E34F26?style=flat&logo=html5&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Code-CSS-1572B6?style=flat&logo=css3&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Code-Php-777BB4?style=flat&logo=php&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Code-Sql-4479A1?style=flat&logo=mysql&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Framework-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Framework-Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />&nbsp;
   <br />
-  <img src="https://img.shields.io/badge/Editor-Visual_Studio-0074C2?style=flat&logo=visual-studio&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Editor-Photoshop-00BEF2?style=flat&logo=adobephotoshop&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Editor-Visual_Studio-007ACC?style=flat&logo=visual-studio&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Editor-Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white" />&nbsp;
 </p>
 <br />
 
