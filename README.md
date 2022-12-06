@@ -39,10 +39,10 @@
 </p>
 <br />
 
----
-
-<!-- <br />
-<h2 align="center"><b>Statistiques GitHub</h2>
+<!-- ---
+  
+<br />
+  <h2 align="center"><b>Statistiques GitHub</h2>
 <br />
 
 <p align="center">
