@@ -39,11 +39,11 @@
 
 ---
 
-<br />
+<!-- <br />
 <h2 align="center"><b>Statistiques GitHub</h2>
 <br />
 
-  <!-- <p align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RyuuCreator&hide=stars,issues&count_private=true&show_icons=true&theme=monokai&title_color=ff4444&locale=fr" height="170" />&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyuuCreator&layout=compact&theme=monokai&title_color=ff4444&locale=fr" height="170" />&nbsp;
 </p> -->
