@@ -6,8 +6,8 @@
   <h1 align="center"><b>Bonjour, je suis Mickael</h1>
 </p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/mickael-tailhades"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-  <a href="https://twitter.com/RyuuCreator"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/mickael-tailhades"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  </a>&nbsp;
   <!-- <a href="https://www.twitch.tv/ryuucreator"><img src="https://img.shields.io/badge/Twitch-6441a5?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitch" /></a>&nbsp; -->
 </p>
 <br />
