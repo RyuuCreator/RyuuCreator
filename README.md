@@ -5,6 +5,22 @@
 <p>
   <h1 align="center"><b>Bonjour, je suis Mickael</h1>
 </p>
+<p>
+  Depuis 2009, ma passion pour le développement web m'a guidé à travers une exploration constante des rouages de ce domaine fascinant. En plongeant dans les langages et technologies tels que HTML, CSS, JS et jQuery, j'ai tracé mon chemin dans un univers en perpétuelle évolution.
+
+  Pendant ma formation en développement web, j'ai eu le privilège d'explorer le monde captivant de Symfony, un framework PHP reconnu pour sa robustesse et sa flexibilité. Pendant cette période, j'ai réalisé des projets marquants. Voici deux d'entre eux :
+  
+  - Projet Symfony E-commerce (projet personnel) : https://github.com/RyuuCreator/Symfony_ecommerce
+  - KNT_Sync (projet de stage de fin de formation) : https://github.com/RyuuCreator/KNT_Sync
+
+  Ces projets ont non seulement consolidé mes compétences, mais m'ont également préparé à relever de nouveaux défis dans le domaine du développement web. Ainsi, je suis résolument tourné vers l'avenir, prêt à explorer de nouvelles technologies et à façonner les expériences numériques de demain.
+  
+  Aujourd'hui encore, mes réalisations antérieures demeurent accessibles en ligne, hébergées sur Vercel. Vous pouvez toujours les découvrir :
+  
+  - Site de 2009 : https://md2009.vercel.app/
+  - Site de 2011 : https://rc2011.vercel.app/
+  - Site de 2013 : https://rc2013.vercel.app/
+</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/mickael-tailhades"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   </a>&nbsp;
